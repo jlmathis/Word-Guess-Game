@@ -1,0 +1,43 @@
+#placeholder {
+  letter-spacing: 3em;
+}
+
+body {
+  background-image:   url("https://i.pinimg.com/originals/ff/0f/61/ff0f61cd0f2ba77c58e89bd405b949a8.jpg");
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: top center !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed;
+}
+
+#wins {
+  font-size: 70px;
+      font-family: 'Verdana', cursive;
+
+}
+
+#status {
+  font-family: 'Verdana', cursive;
+  color: black;
+
+}
+
+h1 {
+  color: yellow;
+  font-size: 100px;
+  font-family: 'Verdana', cursive;
+}
+
+#placeholder {
+  font-size: 100x;
+  font-family: 'Verdana', cursive;
+  
+}
+
+#lives {
+  font-size: 100px;
+  font-family: 'Comic Sans', cursive;
+  color: yellow;
+  
+}
